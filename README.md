@@ -3,3 +3,5 @@ Este repositorio tiene material académico utilizando diferentes sistemas operat
 ademas se va a trabajar de forma colaborativa 
 
 Prueba de Daniel Alegría
+Luis Carlos Viteri
+
