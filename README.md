@@ -1,7 +1,6 @@
 # learning-computer-models-
 Este repositorio tiene material académico utilizando diferentes sistemas operativos y lenguajes de programación 
-ademas se va a trabajar de forma colaborativa 
+ademas se va a trabajar de forma colaborativa.
+Los intregrantes del grupo son:
 
-Prueba de Daniel Alegría
-
-Prueba de Steven Castaño
+Steven Castaño
